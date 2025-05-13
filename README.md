@@ -33,3 +33,4 @@ This repo is a work in progress. Follow along as it evolves.
 - AI parses text into structured line items
 - Assign items to users and split costs
 - Display what each person owes
+- Optional auth + save history
